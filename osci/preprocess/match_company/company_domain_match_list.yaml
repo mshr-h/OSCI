@@ -1095,6 +1095,16 @@
   industry: Technology
   regex:
     - ^.*\.microsoft\.com$
+- company: Mitsubishi Electric
+  domains:
+    - mitsubishielectric.co.jp
+    - fr.merce.mee.com
+    - merl.com
+  industry: Technology
+  regex:
+    - ^.*\.mitsubishielectric\.co\.jp$
+    - ^.*\.fr\.merce\.mee\.com$
+    - ^.*\.merl\.com$
 - company: Motion Picture Association
   domains:
     - motionpicture.jp
